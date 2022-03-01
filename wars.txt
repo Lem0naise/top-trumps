@@ -1,0 +1,14 @@
+Anakin, 78, 85, 1.8, 94
+Jabba the Hut, 23, 12, 4, 2
+Darth Vader, 65, 93, 2, 1
+Luke Skywalker, 89, 92, 1.85, 90
+Yoda, 95, 99, 0.5, 98
+Han Solo, 69, 81, 1.9, 87
+C3P0, 42, 54, 2.1, 90
+R2D2, 89, 78, 1, 90
+Palpatine, 54, 97, 1.7, 2
+Mace Windu, 89, 84, 1.9, 87
+Sand Stalker, 45, 64, 1.4, 5
+Slave Trader, 11, 35, 1.2, 4
+Leia Organa, 86, 77, 1.9, 88
+Kylo Ren, 62, 91, 2.2, 12

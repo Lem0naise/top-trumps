@@ -1,0 +1,18 @@
+Dobby, 32, 65, 0.6, 95
+Harry Potter, 90, 65, 1.9, 98
+Dolores Umbridge, 23, 85, 1.5, 12
+Aragog, 75, 64, 9, 50
+Rita Skeeter, 30, 63, 1.8, 15
+Moaning Myrtle, 4, 51, 1.2, 34
+Voldemort, 80, 98, 2.2, 0
+Ginny, 65, 64, 1.7, 82
+Molly Weasley, 87, 56, 1.9, 89
+Hermione, 87, 86, 1.8, 88
+Ron, 64, 64, 2.1, 86
+Wormtail, 3, 12, 1.3, 4
+Dumbledore, 89, 94, 2.3, 97
+Severus Snape, 65, 89, 2.2, 67
+Hagrid, 89, 67, 3.2, 95
+Bellatrix, 65, 84, 1.9, 4
+Lucius Malfoy, 34, 74, 2.1, 6
+Gringots Goblin, 12, 86, 0.9, 50
